@@ -2,7 +2,9 @@
 A local multiplayer take on the classic board game.
 
 #### Features
- - Two Players
+ - Menu
+ - Instructions on gameplay
+ - Two players
  - Five ships
- - Instructions on How To Play
+ - Faster gameplay
  
