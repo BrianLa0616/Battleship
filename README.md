@@ -1,5 +1,5 @@
 # Battleship
-A local multiplayer take on the classic board game.
+An electronic version of the two-player board game Battleship.
 
 #### Features
  - Menu
